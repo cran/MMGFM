@@ -1,0 +1,13 @@
+f7436d1db76f977ae98a74c93bc8decc *DESCRIPTION
+4577e00c643f00d10f59dc370aafd27e *NAMESPACE
+5e130af005c542e908da3a551dda4b3a *R/RcppExports.R
+eddf7d4347c49a90891d5544e2885f09 *R/gendata_mmgfm.R
+4d00fd0ca41f67ad0dd1350a2efee322 *R/mmgfm.R
+0b42bc0248c2cc481ae3e0fcb27d3d05 *R/zzz.R
+49578bc9774a62807284eef800de730e *man/MMGFM.Rd
+a4f19c8f5e5a7e12e3efed67efc6f117 *man/gendata_mmgfm.Rd
+4d31dc19c51dc95745d883a664b2a678 *man/selectFac.MMGFM.Rd
+d41fbd558d4ecf3c69bc2a4078fd47a0 *src/Makevars
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars.win
+714d2005bb9fe418bb3babfdb2e19af8 *src/RcppExports.cpp
+a9ad87a0caf73d04e5503705940f782e *src/mmcgfm.cpp
